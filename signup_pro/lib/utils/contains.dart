@@ -1,0 +1,16 @@
+const CLASS_DATA = [
+  {"name": "Class", "brand": "UKG", "image": "UKG.jpg"},
+  {"name": "Class", "brand": "LKG", "image": "LKG.jpg"},
+  {"name": "Class", "brand": "1", "image": "1.jpg"},
+  {"name": "Class", "brand": "2", "image": "2.jpg"},
+  {"name": "Class", "brand": "3", "image": "3.jpg"},
+  {"name": "Class", "brand": "4", "image": "4.png"},
+  {"name": "Class", "brand": "5", "image": "5.jpg"},
+  {"name": "Class", "brand": "6", "image": "6.jpg"},
+  {"name": "Class", "brand": "7", "image": "7.jpg"},
+  {"name": "Class", "brand": "8", "image": "8.jpg"},
+  {"name": "Class", "brand": "9", "image": "9.jpg"},
+  {"name": "Class", "brand": "10", "image": "10.jpg"},
+  {"name": "Class", "brand": "11", "image": "11.PNG"},
+  {"name": "Class", "brand": "12", "image": "12.PNG"},
+];

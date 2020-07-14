@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197550198685",
+    "firebase_url": "https://project-quiz-dc30a.firebaseio.com",
+    "project_id": "project-quiz-dc30a",
+    "storage_bucket": "project-quiz-dc30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197550198685:android:0b3df9de45d638ba8ca974",
+        "android_client_info": {
+          "package_name": "com.example.signup_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197550198685-s93fcnqkcuo0ru11haantq2q1qakars4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4JNdbUl38E2rDjzU5q1sdDNeZRuSbCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197550198685-s93fcnqkcuo0ru11haantq2q1qakars4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
